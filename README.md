@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **Apresentação:**
 
-## Getting Started
+<img src="./public/home-image.jpeg" style="width:100%">
 
-First, run the development server:
+</br>
+</br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# :book: **Sobre:**
+
+Este projeto foi criado utilizando Nextjs consumindo a api de produtos da [dummyjson.com](dummyjson.com). 
+O principal objetivo desse projeto foi exercitar meus conhecimentos sobre a ferramenta e aprender mais sobre Nextjs.
+
+---
+
+</br>
+
+**Conceitos e técnicas abordadas:**
+- NextJs;
+- App Routing através do NextJs;
+- Styled Components;
+- Material UI
+- Material Icons
+
+---
+
+</br>
+
+# :rocket: **Técnologias utilizadas:**
+
+- **HTML5**;
+- **CSS3**;
+- **ES6**;
+- **React**;
+- **Next**;
+- **Styled Components**;
+- **Material UI**;
+
+---
+
+</br>
+
+# :card_file_box: Como baixar o projeto
+
+```js
+
+// clonar o repositório
+
+    $ git clone https://github.com/P-L-T-S/nextapp.git
+
+// instalar as dependencias
+
+    $ npm install
+
+// iniciar o projeto
+
+    $ npm run dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br/>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br/>
+<br/>
 
-## Learn More
+# :telephone: Contatos
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<div align="center">
+    <a href="mailto:pedrolts16@gmail.com">
+        <img alt="E-mail" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/pedro-teixeira-s/">
+        <img alt="linkedin" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg">
+    </a>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<br/>
 
-## Deploy on Vercel
+<br/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Feito com :heart: por [Pedro Leonardo](https://www.linkedin.com/in/pedro-teixeira-dev/)
+
+</div>
